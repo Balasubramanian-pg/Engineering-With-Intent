@@ -1,0 +1,20 @@
+# labs/07-ci-gate/genie-eval-gate.yml
+name: Genie Code Instruction Regression Gate
+on:
+  pull_request:
+    paths:
+      - 'instructions/**'
+      - '.assistant/**'
+      - 'AGENTS.md'
+jobs:
+  eval-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run 25-Question Golden Suite
+        run: |
+          python labs/07-golden-suite-runner.py
