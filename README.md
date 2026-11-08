@@ -4,3 +4,4 @@ Software Engineering and Data Engineering as we know it is changed drastically, 
 So come with me as I try to orchestrate and build secure software and data engineering artefacts and share my learning in the process. Actually who am I kidding? I am here to get feedback from those who are way ahead in their journey so that I can incorporate those feedbacks too and help someone else get a hold of everything at one place.
 
 I like orchestrating and I love organizing things at one place, What can I say!!
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/819a87d9-79ff-4b8d-a30d-7edd31d41242" />
