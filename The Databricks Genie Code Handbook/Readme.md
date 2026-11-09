@@ -70,6 +70,8 @@ Breaking larger engineering workflows into smaller, reusable skills instead of o
 - **Dynamic Trigger Collision (p. 16):** Understanding how overlapping skill descriptions can cause unintended triggers and how to test for them.
 - **Lakeflow Pipelines Skill Matrix (p. 17):** A reusable skill template for generating production-grade streaming pipelines.
 
+<img width="1539" height="865" alt="image" src="https://github.com/user-attachments/assets/f8f0e9ef-410f-4bb4-a143-6515edbd951a" />
+
 #### Chapter 4: Repository-Level Governance (Pages 18–21)
 
 Using repository-level instructions to maintain consistent engineering practices without making global workspace instructions unnecessarily restrictive.
