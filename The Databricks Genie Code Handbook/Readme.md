@@ -93,6 +93,8 @@ Reducing incorrect joins and ambiguous table selection by providing Genie with b
 - **Partition Pruning Annotations (p. 25):** Documenting partition columns and relevant table metadata to help guide more efficient query generation.
 - **Table and Column Synonyms (p. 26):** Mapping technical and legacy ERP identifiers such as `kunnr` and `vbeln` to business-friendly terminology through Unity Catalog metadata.
 
+<img width="1537" height="861" alt="image" src="https://github.com/user-attachments/assets/a36c503f-509c-4108-8df7-5df9e9b8f509" />
+
 #### Chapter 6: Security and Access Control (Pages 27–31)
 
 Making sure that agent-generated queries operate within the right access boundaries and that the underlying data remains protected.
