@@ -117,6 +117,8 @@ Moving beyond manually checking whether an agent-generated answer looks correct 
 - **Automated Regression Gates (p. 35):** Introducing CI/CD checks that flag instruction changes when benchmark performance drops below an agreed threshold.
 - **Declarative Asset Bundles (p. 36):** Managing workspace configurations, instructions and supporting resources as version-controlled deployments using Databricks Asset Bundles.
 
+<img width="1539" height="861" alt="image" src="https://github.com/user-attachments/assets/39ce1e2b-7315-462f-857d-cf5adf97d1ac" />
+
 #### Chapter 8: Production Field Playbook (Pages 37–40)
 
 Bringing the individual concepts together into a practical operational workflow.
