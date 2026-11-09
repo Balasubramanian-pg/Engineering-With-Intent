@@ -82,6 +82,8 @@ Using repository-level instructions to maintain consistent engineering practices
 
 ### Part III: Unity Catalog Grounding
 
+<img width="1536" height="865" alt="image" src="https://github.com/user-attachments/assets/6325c277-c7cc-414e-bbf1-6ccbdcd0da5d" />
+
 #### Chapter 5: Relational Grounding (Pages 22–26)
 
 Reducing incorrect joins and ambiguous table selection by providing Genie with better metadata and relational context.
