@@ -135,10 +135,6 @@ Relevant concept cards include clickable external references to research and tec
 
 Every chapter includes a *Try It Yourself* section with links to the relevant implementation files.
 
-You can access the companion repository here:
-
-https://github.com/Balasubramanian-pg/Engineering-With-Intent
-
 The objective is to make the concepts practical. You should be able to move from understanding an architectural decision to deploying the corresponding example in your own Databricks workspace and examining the results.
 
 This handbook is not meant to be another theoretical introduction to AI agents. It is a collection of engineering practices, experiments and implementation patterns that I want to make easier for other Databricks practitioners to explore and build upon.
