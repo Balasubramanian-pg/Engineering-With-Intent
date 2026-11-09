@@ -59,6 +59,8 @@ Why context management matters and how to avoid carrying unnecessary conversatio
 
 ### Part II: Skills and Repositories
 
+<img width="1537" height="862" alt="image" src="https://github.com/user-attachments/assets/205a5dea-7e7b-42bb-830f-f70f974e5399" />
+
 #### Chapter 3: Modular Agent Skills (Pages 13–17)
 
 Breaking larger engineering workflows into smaller, reusable skills instead of overloading global instructions.
