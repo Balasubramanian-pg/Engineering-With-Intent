@@ -35,6 +35,8 @@ The handbook contains 43 landscape pages, divided into four parts and eight chap
 
 ### Part I: Architecture and Context
 
+<img width="1539" height="868" alt="image" src="https://github.com/user-attachments/assets/38338ac8-535f-4a6d-9dec-df67b23487f6" />
+
 #### Chapter 1: The Precedence Ladder (Pages 03–07)
 
 Understanding how Genie Code processes instructions, resolves conflicting context and determines which rules take precedence.
