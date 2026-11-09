@@ -130,6 +130,7 @@ Bringing the individual concepts together into a practical operational workflow.
 ## References and Supporting Resources
 
 The handbook is backed by official documentation, external research and runnable examples.
+<img width="1540" height="860" alt="image" src="https://github.com/user-attachments/assets/6f59cb6c-d96d-4c20-9f54-18c92aa1b2bf" />
 
 **1. Master References Index (Page 42)**
 
