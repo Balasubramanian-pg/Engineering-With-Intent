@@ -106,6 +106,8 @@ Making sure that agent-generated queries operate within the right access boundar
 
 ### Part IV: Operations and CI/CD
 
+<img width="1537" height="864" alt="image" src="https://github.com/user-attachments/assets/f9c512d1-9c1d-4e4f-a00f-5e575d93c4be" />
+
 #### Chapter 7: Evaluation Benchmarks and CI (Pages 32–36)
 
 Moving beyond manually checking whether an agent-generated answer looks correct and introducing repeatable evaluation into the development workflow.
