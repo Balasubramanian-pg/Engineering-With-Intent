@@ -46,6 +46,8 @@ Understanding how Genie Code processes instructions, resolves conflicting contex
 - **The Silent Override Trap (p. 06):** Understanding what happens when instructions conflict, why these conflicts can be difficult to identify and how to detect them.
 - **The Lean Instruction Budget (p. 07):** My observations on keeping instructions concise, including the distinction between a practical 2,000-character working budget and the platform's 20,000-character ceiling.
 
+<img width="1539" height="862" alt="image" src="https://github.com/user-attachments/assets/39f566c4-c5b9-4be0-9618-9d7656d3369a" />
+
 #### Chapter 2: Context Windows and Hygiene (Pages 08–12)
 
 Why context management matters and how to avoid carrying unnecessary conversational history into engineering tasks.
